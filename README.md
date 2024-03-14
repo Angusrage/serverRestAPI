@@ -47,7 +47,7 @@ _Este repositório foi criado para o bootcamp de Teste de API Rest._
 
 ### Report
 Se você optou por rodar os testes com o report htmlextra, você gerou um arquivo html com o resultado dos testes
-e para verificar as validações você abrir a pasta **newman** que foi criada no local em que os arquivos de _collection_ 
+e para verificar as validações você precisa abrir a pasta **newman** que foi criada no local em que os arquivos de _collection_ 
 e _environment_ se encontram. 
 
 ## Entre em contato
